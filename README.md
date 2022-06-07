@@ -1,4 +1,4 @@
-**How to run Jigsaw?**
+# **How to run Jigsaw?**
 
 **On server:**\
 1.**Run***baseCommands/runServerStart.bat* to open connection to the base. 
@@ -37,7 +37,7 @@ computer.
  ![](vertopal_27f747f8e5ce444497b5142352803ac6/media/image3.png){width="3.676388888888889in"
  height="0.3236111111111111in"}
 
- **What is Jigsaw?**
+# **What is Jigsaw?**
 
 Jigsaw is a game like Tetris. Firstly, you see a big field and a small
 field with a figure. You should drag a figure from the small field and
@@ -57,7 +57,7 @@ height="2.3180544619422574in"}
 ![](vertopal_27f747f8e5ce444497b5142352803ac6/media/image6.png){width="4.436110017497813in"
 height="2.3194444444444446in"}
 
-**Play it with others**
+# **Play it with others**
 
 You can play Jigsaw with others by server connection. First, you need
 to run server's jar-file and serverRun.bat which runs server's base of
@@ -76,7 +76,7 @@ waits a new player to come to the server.
 ![](vertopal_27f747f8e5ce444497b5142352803ac6/media/image8.png){width="6.495832239720035in"
 height="3.4152766841644793in"}
 
-**Look at TOP-10 results**
+# **Look at TOP-10 results**
 
 The server saves all results of all users on his local base. Each user
 can see TOP-10 by pressing button. The results are sorted by steps -\>
