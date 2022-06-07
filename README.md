@@ -1,12 +1,12 @@
 # **How to run Jigsaw?**
 
-**On server:**
+## On server:
 - **Run**       *baseCommands/runServerStart.bat* to open connection to the base.
 - **Run**       *out/artifacts/JigsawServer_jar/Jigsaw.jar* (Or *JigsawServerRun.main*)    
-                <br />Arguments:<br />
-                        *{Number of players} {Server Port} {Max duration of each game}*
-                <br />Example:<br />
-                        *java -jar Jigsaw.jar 2 5000 300*
+                 <br />     Arguments:<br />
+                                    *{Number of players} {Server Port} {Max duration of each game}*
+                 <br />     Example:<br />
+                                    *java -jar Jigsaw.jar 2 5000 300*
 - After finishing the game and closing the Jigsaw server
                 <br />**run**         *baseCommands/runServerShutdown.bat*<br />
 
@@ -14,12 +14,12 @@
 
 ![](zmedia/pictures/media/image2.png)
 
-**On client:**
+## On client:
 - **Run**       *out/artifacts/JigsawClient_jar/Jigsaw.jar* (Or *JigsawClientRun.main*)
-                <br />Arguments:<br />
-                        {Host name} {Server Port} {Player\'s (your) name}*
-                <br />Example:<br />
-                        *java -jar Jigsaw.jar localhost 5000 Kostichka*<br />
+                <br />      Arguments:<br />
+                                    *{Host name} {Server Port} {Player\'s (your) name}*
+                <br />      Example:<br />
+                                    *java -jar Jigsaw.jar localhost 5000 Kostichka*<br />
 
 Set a host name "localhost" to run a server and clients from the same
 computer.
